@@ -17,8 +17,8 @@ I am a **Computer Science junior student** with a background in **software devel
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lorenzggabriel&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzggabriel&theme=github-dark-blue&hide_border=true" width="49%" />
 </p>
 
 ## 📌 Projects
